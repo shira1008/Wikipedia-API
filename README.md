@@ -1,7 +1,7 @@
 
 
 #### API 
-
+I used wikipedia API to create a website that looks similar to wikipedia and display the searching results.
 - [wiki docs](https://www.mediawiki.org/wiki/API:Main_page)
 
 #### Initial Setup
