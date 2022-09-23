@@ -1,6 +1,7 @@
 
 
-#### API 
+#### Wikipedia API  <a href="https://wikipedia-shish.netlify.app/"><img src='https://upload.wikimedia.org/wikipedia/commons/4/4a/WikiGif.gif'  height='40'></a>
+
 I used wikipedia API to create a website that looks similar to wikipedia and display the searching results.
 - [wiki docs](https://www.mediawiki.org/wiki/API:Main_page)
 
@@ -18,6 +19,6 @@ I used wikipedia API to create a website that looks similar to wikipedia and dis
 - pass valid results into renderResults()
 
 #### Live site
-  <a href="https://wikipedia-shish.netlify.app/"><img src='https://upload.wikimedia.org/wikipedia/commons/4/4a/WikiGif.gif'  height='40'></a>
+  <a href="https://wikipedia-shish.netlify.app/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg'  height='40'></a>
 
 
